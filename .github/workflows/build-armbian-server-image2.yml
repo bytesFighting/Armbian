@@ -192,7 +192,7 @@ on:
         default: "6.1.82"
         type: choice
         options:
-          - 5.4.y
+          - 6.1.82
       auto_kernel:
         description: "Auto use the latest kernel."
         required: false
